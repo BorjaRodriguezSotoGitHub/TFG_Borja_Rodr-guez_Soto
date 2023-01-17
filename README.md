@@ -1,6 +1,6 @@
-# En este proyecto se encuentra el código del trabajo fin de grado sobre el desarrollo de un sistema escalable para una plataforma de conciencia cibersituacional basado en ontologías.
+En este proyecto se encuentra el código del trabajo fin de grado sobre el desarrollo de un sistema escalable para una plataforma de conciencia cibersituacional basado en ontologías.
 
-##Será necesario la instalación previa de los siguientes componentes:
+## Será necesario la instalación previa de los siguientes componentes:
 1. Protégé 5.5.0.
 2. Python 3.10.
 3. Librería de Owlready2 de Python.
@@ -9,20 +9,20 @@
 6. Entorno Eclipse IDE 2022-12 (recomendable).
 
 
-##Se encuentra separado por:
+## Se encuentra separado por:
 
 1. Sistema escalable basado en Python.
 2. Sistema escalable basado en Java.
 3. Carpeta con las diferentes cargas para probar con cantidades de individuos de 10 a 400.
 
-##Para ejecutar el sistema escalable basado en Python:
+## Para ejecutar el sistema escalable basado en Python:
 
 1. Copiamos dentro de la carpeta Python los archivos ontoliga_vulnerabilidades.owl (ontología vacía sin individuos) y el archivo population_individuals.csv (carga de los individuos) de una de las pruebas que queramos hacer. Por ejemplo, si queremos hacer la prueba de 10 individuos copiariamos los archivos de dentro de la carpeta Cargas/10 Individuos.
 2. Abrimos una terminal de comandos en el directorio de la carpeta Python.
 3. Ejecutamos el comando "python populating.py".
 4. Se puede comprobar como la ejecución devuelve el tiempo en segundos que ha tardado, y si se vuelve a abrir el archivo Python/ontoliga_vulnerabilidades.owl veremos como la ontología tiene ya tanto los indiviuos cargados, como inferidos en las clases correspondientes.
 
-##Para ejecutar el sistema escalable basado en Java:
+## Para ejecutar el sistema escalable basado en Java:
 
 1. Importamos en un entorno como Eclipse, el proyecto que se encuentra en la ruta Java/ontologia_vulnerabilidades.
 2. Modificamos las siguientes rutas del proyecto:
