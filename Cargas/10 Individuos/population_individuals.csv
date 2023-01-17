@@ -1,0 +1,6 @@
+﻿ID_CVE,Confidencialidad,Integridad,Disponibilidad,Economico,Ideologico,Difamacion,Desafio_Intelectual,Destruccion,Secuestro,Obtencion,Ano_CVE,Identificador_CVE,genera,Tipo_de_vulnerabilidad,ID_ATT,Ano_ATT,Identificador_ATT,afectaAlPais,afectaLaEmpresa,Capa_del_ataque,Tipo_de_producto_afectado
+CVE-2014-1,Baja,Baja,Baja,No,No,No,Si,No,No,No,2014,1,ATT-2014-1,Memory_Corruption,ATT-2014-1,2014,1,Austria,Accenture,Red_Internet,Linux
+CVE-2017-2,Baja,Alta,Alta,Si,Si,No,Si,Si,No,Si,2017,2,ATT-2017-2,Gain_Information,ATT-2017-2,2017,2,Polonia,Renault,Red_Internet,Linux
+CVE-2020-3,Alta,Baja,Normal,No,No,No,Si,Si,No,No,2020,3,ATT-2020-3,Http_Response_Splitting,ATT-2020-3,2020,3,Bulgaria,Carrefour,Red_Internet,Mac
+CVE-2014-4,Baja,Alta,Alta,No,No,Si,Si,No,Si,Si,2014,4,ATT-2014-4,DoS,ATT-2014-4,2014,4,Austria,Ford,Red_Adyacente,Linux
+CVE-2013-5,Normal,Alta,Baja,No,No,No,No,No,No,Si,2013,5,ATT-2013-5,XSS,ATT-2013-5,2013,5,Rumania,Accenture,Fisica,iOs
