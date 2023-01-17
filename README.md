@@ -1,4 +1,4 @@
-#En este proyecto se encuentra el código del trabajo fin de grado sobre el desarrollo de un sistema escalable para una plataforma de conciencia cibersituacional basado en ontologías.
+# En este proyecto se encuentra el código del trabajo fin de grado sobre el desarrollo de un sistema escalable para una plataforma de conciencia cibersituacional basado en ontologías.
 
 ##Será necesario la instalación previa de los siguientes componentes:
 1. Protégé 5.5.0.
