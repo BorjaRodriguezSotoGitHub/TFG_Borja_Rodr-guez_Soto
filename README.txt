@@ -1,5 +1,13 @@
 En este proyecto se encuentra el código del trabajo fin de grado sobre el desarrollo de un sistema escalable para una plataforma de conciencia cibersituacional basado en ontologías.
 
+Será necesario la instalación previa de los siguientes componentes:
+	1) Protégé 5.5.0.
+	2) Python 3.10.
+	3) Librería de Owlready2 de Python.
+	4) Librería de CSV de Python.
+	5) Java 8.0.
+	6) Entorno Eclipse IDE 2022-12 (recomendable).
+
 Se encuentra separado por:
 
 	1) Sistema escalable basado en Python.
